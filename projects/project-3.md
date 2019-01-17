@@ -33,12 +33,9 @@ visually represent it on screen.
 
 <div class="ui small rounded images">
 	<img src="../images/bricks.png">
+	<img src="../images/dirt.png">
 	<img src="../images/bricks.png">
-	<img src="../images/bricks.png">
-	<img src="../images/bricks.png">
-	<img src="../images/bricks.png">
-	<img src="../images/bricks.png">
-	<img src="../images/bricks.png">
+	<img src="../images/dirt.png">
 </div>
 
 Here is the code which modeled the behavior of the roobrah:
