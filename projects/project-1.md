@@ -33,7 +33,9 @@ sure that I was careful with the components I was handling, as I was fearful of 
 had helped me throughout this personal project of mine was my father. The only roles he played in the process was approving of my
 component list as well as helping me organize the wiring of the computer. 
 
-
+This was an empowering experience for me as it sparked my interest in computers and is what ultimately pushed me to want to learn even
+more about computers. Throughout the researching process I had learned what each component was responsible for and what to look for in
+the market. Without this experience I would not have developed the passion I have for technology I have today. 
 
 
 
