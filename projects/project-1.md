@@ -18,6 +18,7 @@ summary: In my sophomore year of highschool I learned how to build my own comput
   <img src="../images/computerbuild1.JPG">
   <img src="../images/computerbuild2.jpg">
   <img src="../images/computerbuild5.JPG">
+  <img src="../images/computerbuild6.jpg">
 </div>
 During my sophomore year of highschool I had wanted a dedicated gaming computer. However, I did not want to just buy any pre-built rigs 
 online. I thought that it would be more worth my money, time, and interest if I learned to build one instead. So for my upcoming 
