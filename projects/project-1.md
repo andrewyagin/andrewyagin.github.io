@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img src="../images/computerbuild8.jpg"
+image: ../images/computerbuild8.jpg
       
 title: First Computer Build
 permalink: projects/firstbuild
