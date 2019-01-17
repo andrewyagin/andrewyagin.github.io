@@ -14,6 +14,9 @@ summary: A basic AI for a virtual roomba that I developed in ICS 111.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/bricks.png">
+<img class="ui image" src="{{ site.baseurl }}/images/bricks.png">
+<img class="ui image" src="{{ site.baseurl }}/images/bricks.png">
+<img class="ui image" src="{{ site.baseurl }}/images/bricks.png">
 
 In my first ever programming class, ICS 111, we developed a simple AI which was meant to behave like a roomba. We made a room in a text
 file in which each "D", "W", and "R" was replaced with a picture of a wall, dirt pile, and roomba respectively. In this assignment we
@@ -38,6 +41,10 @@ visually represent it on screen.
 	<img src="../images/dirt.png">
 </div>
 
+
+
+
+
 Here is the code which modeled the behavior of the roobrah:
 ```java
 for(int i=0; i<wallCount; i++){
@@ -51,4 +58,4 @@ for(int i=0; i<wallCount; i++){
 
 ```
 
-<img class="ui image" src={{ site.baseurl }}/images/bricks.png">
+
