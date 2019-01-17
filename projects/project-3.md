@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Roomba
+image: images/roomba.png
+title: Roombrah
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-25
@@ -13,50 +13,38 @@ labels:
 summary: A basic AI for a virtual roomba that I developed in ICS 111.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/bricks.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In my first ever programming class, ICS 111, we developed a simple AI which was meant to behave like a roomba. We made a room in a text
+file in which each "D", "W", and "R" was replaced with a picture of a wall, dirt pile, and roomba respectively. In this assignment we
+needed to program the roomba to move around and bounce off any wall at a fourty-five degree angle. Prior to this we had only one
+programming project, on which I did horribly, so this first successfull project was a significant milestone for me.
 
-To give you a flavor of the game, here is an excerpt from one run:
+This project was exceptionally difficult for me since it was my second significant programming assignment. Without any other form of
+help other than my Teaching Assistant for the class, I completed the project on my own. What made the development of the program easy
+was the hints and practice that we experienced in the class labs. Although not giving us the answer, the labs would be oriented to give
+us better comprehension of how the functions of the roobrah should work.
 
-<hr>
+The most challenging aspect I had with the assignment was determining how the roobrah would know when it would hit a dirt pile and 
+thereby remove it from the screen. To do so I had to learn how to calculate the image dimensions of both the roombrah and dirtpiles. I 
+also had to learn how to keep track of the center of the roombrah's image so that I could update the position of the roombrah and 
+visually represent it on screen.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
 
-pickup candle
-- you are now carrying the candle -
 
-pickup match
-- you are now carrying the match -
+Here is the code which modeled the behavior of the roobrah:
+```java
+for(int i=0; i<wallCount; i++){
+			
+			if(wallArray[i].isPointInElement(posX+dirX,posY)){	//reverse the x direction
+				dirX=-dirX;
+			}
+			if(wallArray[i].isPointInElement(posX,posY+dirY)){	//reverse the y direction
+				dirY=-dirY;
+			}
 
-light match candle
+```
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+<img class="ui image" src={{ site.baseurl }}/images/bricks.png">
