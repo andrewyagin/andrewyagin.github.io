@@ -12,6 +12,7 @@ labels:
   - Laser Cutter
   
 summary: A CAD project in which I designed, cut, and assembled two boxes.
+---
 
 <img class="ui medium right floated rounded image" src="../images/openbox.JPG">
 
