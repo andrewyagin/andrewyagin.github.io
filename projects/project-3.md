@@ -31,8 +31,15 @@ also had to learn how to keep track of the center of the roombrah's image so tha
 visually represent it on screen.
 
 
-
-
+<div class="ui small rounded images">
+	<img src="../images/bricks.png">
+	<img src="../images/bricks.png">
+	<img src="../images/bricks.png">
+	<img src="../images/bricks.png">
+	<img src="../images/bricks.png">
+	<img src="../images/bricks.png">
+	<img src="../images/bricks.png">
+</div>
 
 Here is the code which modeled the behavior of the roobrah:
 ```java
