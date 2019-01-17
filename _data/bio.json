@@ -2,11 +2,11 @@
   "basics": {
     "name": "Andrew Yagin",
     "label": "Student",
-    "picture": "https://andrewyagin.github.io/template/images/ProfesionalProfilePic.jpg",
+    "picture": "https://andrewyagin.github.io/images/ProfessionalProfilePic.jpg",
     "email": "andyag@hawaii.edu",
     "phone": "808-344-5957",
     "website": "https://andrewyagin.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am currently an undergraduate studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "30 Kolopua Place",
       "postalCode": "96793",
@@ -18,11 +18,11 @@
       {
         "network": "github",
         "username": "andrewyagin",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/andrewyagin"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
+        "network": "LinkedIn",
+        "username": "andrewtyagin",
         "url": "https://www.linkedin.com/in/andrewtyagin/"
       },
       {
@@ -45,11 +45,6 @@
     },
     {
       "name": "Internet of Things",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
       "keywords": [
       ]
     }
