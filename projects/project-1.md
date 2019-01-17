@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/computerbuild8.jpg
 title: First Computer Build
 permalink: projects/firstbuild
 # All dates must be YYYY-MM-DD format!
@@ -10,14 +10,13 @@ labels:
   - Hardware
   - Budgeting
   - Building
-summary: For my birthday present and as a personal goal I learned how to budget my money and build a computer.
+summary: In my sophomore year of highschool I learned how to build my own computer.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/computerbuild1.jpg">
+  <img class="ui image" src="../images/computerbuild2.jpg">
+  <img class="ui image" src="../images/computerbuild5.jpg">
 </div>
 During my sophomore year of highschool I had wanted a dedicated gaming computer. However, I did not want to just buy any pre-built rigs 
 online. I thought that it would be more worth my money, time, and interest if I learned to build one instead. So for my upcoming 
@@ -35,7 +34,8 @@ component list as well as helping me organize the wiring of the computer.
 
 This was an empowering experience for me as it sparked my interest in computers and is what ultimately pushed me to want to learn even
 more about computers. Throughout the researching process I had learned what each component was responsible for and what to look for in
-the market. Without this experience I would not have developed the passion I have for technology I have today. 
+the market. This personal project was also proved to be vital in learning how to make purchases on a budget and how to make the best 
+"bang for the buck" purchase. Without this experience I would not have developed the passion I have for technology I have today. 
 
 
 
