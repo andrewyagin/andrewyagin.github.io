@@ -34,9 +34,9 @@ visually represent it on screen.
 
 <div class="ui small rounded images">
 	<img src="../images/bricks.png">
-	<img src="../images/dirt.png">
+	<img src="../images/originaldirtmound.png">
 	<img src="../images/bricks.png">
-	<img src="../images/dirt.png">
+	<img src="../images/originaldirtmound.png">
 </div>
 
 
