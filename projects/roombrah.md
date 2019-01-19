@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roomba++.png
+image: images/room.PNG
 title: Roombrah
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
