@@ -17,7 +17,7 @@ have strict syntax rules. By comparison, Javascript feels liberating. However, a
 bad thing. On one hand, Javascript can have interchangable data types like treating strings like arrays. Yet on the other hand, it seems 
 like it'll be easy to confuse variables that aren't constrained by a specific data type. For these reasons, I get the impression of 
 Javascript being like those slacker older siblings who potentially, more or less, serves as a percieved bad influence on their younger 
-siblings. Similar to Rodrick from the Diary of a Wimpy kid books, Axl from "The Middle" TV show, or Reese from "Malcolm in the Middle". But
+siblings. Similar to Rodrick from the Diary of a Wimpy kid books, Axl from *The Middle*, or Reese from *Malcolm in the Middle*. But
 so far it's been an enjoyable language to work with, it doesn't seems to utilize pointers *shudder* as C and C++ does. I cannot definitively
 say or determine that Javascript ought to be the go-to language for software engineers. I just assume that programmers ought to have a wide
 understanding of many languages. 
