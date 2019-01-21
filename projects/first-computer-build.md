@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: andrewyagin.github.io/images/computerbuild8.jpg
+image: andrewyagin.github.io/images/computerbuild9.jpg
       
 title: First Computer Build
 permalink: projects/firstbuild
