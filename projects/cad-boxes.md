@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/closedbox.JPG
 title: CAD Boxes
-permalink: projects/vacay
+permalink: projects/cadboxes
 # All dates must be YYYY-MM-DD format!
 date: 2016-03-20
 labels:
