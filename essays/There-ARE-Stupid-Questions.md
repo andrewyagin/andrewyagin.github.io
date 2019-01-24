@@ -1,5 +1,5 @@
 ---
-layout:essay
+layout: essay
 type: essay
 published: true
 title: There ARE Stupid Questions
