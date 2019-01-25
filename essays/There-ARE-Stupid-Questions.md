@@ -39,7 +39,7 @@ I'd assume this is C, since it works in GCC as well. Where is this defined in th
 Notice the elements of the post: title is simple and straight to the point, in the first few sentences; they inform readers that they have done some research and even listed their sources; they include a brief, simple example in their attached code.
 
 
-### Here is an example of a **STUPID** Question
+### Here is an example of a **_STUPID_** Question
 ```
 Make this script work [closed]
 ----------------------------------------
