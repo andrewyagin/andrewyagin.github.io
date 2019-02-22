@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title:
+title: Semantic UI For simple modern websites
 date: 2019-02-21
 labels:
   - Semantic UI
