@@ -6,7 +6,7 @@ title: Semantic UI For simple modern websites
 date: 2019-02-21
 labels:
   - Semantic UI
-  -Learning
+  - Learning
   - Programming
   - Software Engineering
 ---
