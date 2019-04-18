@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: What is the ethical thing to do?
-date: 18-01-2019
+date: 2019-04-18
 labels:
   - Software Engineering 
   - Ethics
