@@ -1,4 +1,4 @@
---------
+---
 layout: essay
 type: essay
 published: true
@@ -8,4 +8,6 @@ labels:
   - Software Engineering 
   - Ethics
   - Dilemmas
---------
+---
+
+
