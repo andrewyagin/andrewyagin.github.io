@@ -10,6 +10,6 @@ labels:
 ---
 ### First of all, what are ethics?
 
-  Ethics are the moral resposiblity that a developer should uphold for every piece of code written.
+  Ethics are the moral resposiblity that a developer should uphold for every piece of code written. As with any job that is closely related to the public, or at least those that experience heavy use from an average person, there is the capability to cause harm indirectly or directly. 
 
 
