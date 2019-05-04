@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "Cybersecurity",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
@@ -62,6 +62,12 @@
         "C",
         "C++",
         "Java",
+        "Javascript",
+        "HTML", 
+        "CSS",
+        "React",
+        "Meteor",
+        "Mongo"
       ]
     },
     {
@@ -83,10 +89,7 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "ICS 314",
-        "ICS 311",
-        "ANTH 150",
-        "ECON 131"
+        "ICS 111, 211, 141, 241, 314",
       ]
     }
   ],
