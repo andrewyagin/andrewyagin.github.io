@@ -4,11 +4,11 @@
     "label": "Student",
     "picture": "/images/ProfessionalProfilePic.jpg",
     "email": "andyag@hawaii.edu",
-    "phone": "808-344-5957",
+    "phone": "",
     "website": "https://andrewyagin.github.io",
     "summary": "I am currently an undergraduate studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in the Spring, 2021.",
     "location": {
-      "address": "30 Kolopua Place",
+      "address": "",
       "postalCode": "96793",
       "city": "Wailuku",
       "countryCode": "USA",
@@ -39,17 +39,22 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Video games",
       "keywords": [
       ]
     },
     {
-      "name": "Internet of Things",
+      "name": "UI Design",
       "keywords": [
       ]
     },
     {
       "name": "Computer Hardware",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -63,11 +68,9 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML", 
+        "HTML",
         "CSS",
-        "React",
-        "Meteor",
-        "Mongo"
+        "Markdown"
       ]
     },
     {
@@ -76,7 +79,7 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -89,7 +92,6 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "ICS 111, 211, 141, 241, 314",
       ]
     }
   ],
