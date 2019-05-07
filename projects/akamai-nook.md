@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/akamainook.PNG
+image: images/logo.PNG
 title: AkamaiNook
 permalink: projects/akamai-nook
 date: 2019-05-07
