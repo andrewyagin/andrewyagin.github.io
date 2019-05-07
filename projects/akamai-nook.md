@@ -21,6 +21,9 @@ summary: A group project developed for ICS 314
 ### Introduction
 For the last month and a half of my ICS 314 class, we developed a website as a group assignment. My following group members: Luke and Jiajun were assigned the "Mānoa Study Spots," in which students would be able to browse through study spots found around the Manoa area. Before this assignment, we worked on many smaller tasks of little tasks that involved the use of the React, MongoDB, and Semantic UI.
 
+<img class="ui medium right floated rounded image" src="../images/nookBackgroundImage.PNG"/>
+
+
 ### An entertaining (_but difficult_) experience
 My group and I especially stumbled with a several a few hurdles. One of the biggest to overcome was our difficulty in approaching the assignment. Early on we just kept coming up with ideas and features that we wanted to implement in the application. As a result, our hubris made the path to starting the project seem daunting. But we managed to get through it by first deciding on what key pages we wanted on the website and designed mock-up pages with the end picture in mind. I worked on the **Admin** and **Profile** pages. Although I was satisfied with how the **Admin** mock-up turned out, I was disappointed with how the result of the **Profile** mock-up turned out. But it was a place holder since it only represented how the page may look. 
 
@@ -29,6 +32,10 @@ The second hurdle my group and I faced was difficulty in utilizing GitHub and th
 The last major hurdle my group and I faced was the difficulty in working together as a group. Unlike the other classes of the ICS program here at Manoa, this is the first class in which we developed a project of significance as a small group. Opposed to other assignments in which we developed code on our own, this task required the input of others, which added another level of complexity to programming. Luckily in my case, I believe my group and I gelled well together. We did not have much debates or complications in our thoughts or ideas. Furthermore, our schedules worked well in our favor as we had free time after class to work on it together. Other than in-person discussions, most of the communication was done through Slack.
 
 All in all, I thoroughly enjoyed working on it. I do not doubt that the knowledge and experience I have gained throughout this assignment will be valuable later on in my progress through college and in my career as a Computer Scientist.
+
+
+
+<img class="ui medium floated rounded image" src="../images/logo.png"/>
 
 
  
