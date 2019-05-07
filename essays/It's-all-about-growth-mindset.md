@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: It's all about the growth mindset
 date: 2019-01-17
 labels:

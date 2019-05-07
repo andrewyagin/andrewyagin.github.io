@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Javascript, The Laid Back Slacker Brother of Java
 date: 2019-01-18
 labels:

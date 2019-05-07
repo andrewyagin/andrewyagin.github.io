@@ -41,17 +41,19 @@ visually represent it on screen.
 
 
 
-Here is the code which modeled the behavior of the roobrah:
-```java
+Here is the code which modeled the behavior of the roobrah in _*Java*_ :
+```
 for(int i=0; i<wallCount; i++){
-			
-			if(wallArray[i].isPointInElement(posX+dirX,posY)){	//reverse the x direction
+			// if roobrah image hits wall image
+			if(wallArray[i].isPointInElement(posX+dirX,posY)){	
+			  //reverse the x direction
 				dirX=-dirX;
 			}
-			if(wallArray[i].isPointInElement(posX,posY+dirY)){	//reverse the y direction
+			// if roobra hits wall image
+			if(wallArray[i].isPointInElement(posX,posY+dirY)){	
+			  // reverse the y direction
 				dirY=-dirY;
 			}
-
 ```
 
 

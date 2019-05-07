@@ -12,9 +12,16 @@ labels:
 
 summary: A group project developed for ICS 314
 ---
+***[Check it Out for Yourself!](http://akamainook.meteorapp.com/#/)***
 
-<img class="ui medium right floated rounded image" src="../images/
+### Website Screenshots
+<img class="ui medium right floated rounded image" src="../images/akamainook.PNG/>
 
-For the last month and a half of my ICS 314 class, we were tasked with developing a website as a group. 
-My following group members: Luke and Jiajun were assigned the "Manoa Study Spots", in which UH students would be able to browse study
-spots that could be found in the Manoa area. 
+
+### Introduction
+For the last month and a half of my ICS 314 class, we were tasked with developing a website as a group assignment. My following group members: Luke and Jiajun were assigned the "Mānoa Study Spots", in which students would be able to browse through study spots that could be found around the Manoa area. Prior to this assignment, the class was mainly composed of little tasks that involved the use of the 
+
+### A Fun Experience
+
+
+ 
