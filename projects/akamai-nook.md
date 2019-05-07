@@ -12,7 +12,7 @@ labels:
 
 summary: A group project developed for ICS 314
 ---
-***[Check it Out for Yourself!](http://akamainook.meteorapp.com/#/)***
+***[Check it Out for Yourself!](http://akamainook.meteorapp.com/#/)*** or ***[Check out the github.io page!](https://akamainook.github.io/)*** for a more information.
 
 ### Website Screenshots
 
