@@ -14,14 +14,16 @@ summary: A group project developed for ICS 314
 ---
 ***[Check it Out for Yourself!](http://akamainook.meteorapp.com/#/)*** or ***[Check out the github.io page!](https://akamainook.github.io/)*** for a more information.
 
-### Website Screenshots
-
-<img class="ui medium floated rounded image" src="../images/akamainook.PNG"/>
 
 ### Introduction
 For the last month and a half of my ICS 314 class, we developed a website as a group assignment. My following group members: Luke and Jiajun were assigned the "Mānoa Study Spots," in which students would be able to browse through study spots found around the Manoa area. Before this assignment, we worked on many smaller tasks of little tasks that involved the use of the React, MongoDB, and Semantic UI.
 
-<img class="ui medium floated rounded image" src="../images/nookBackgroundImage.PNG"/>
+<div class="ui rounded images">
+  <img class="ui medium floated rounded image" src="../images/logo.png"/>
+  <img src="../images/akamainook.PNG"/>
+  <img src="../images/nookBackgroundImage.PNG"/>
+  <img src="../images/akamainookProfile.PNG">
+</div>
 
 
 ### An entertaining (_but difficult_) experience
@@ -35,7 +37,7 @@ All in all, I thoroughly enjoyed working on it. I do not doubt that the knowledg
 
 
 
-<img class="ui medium floated rounded image" src="../images/logo.png"/>
+
 
 
  
