@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: What is the ethical thing to do?
 date: 2019-04-18
 labels:

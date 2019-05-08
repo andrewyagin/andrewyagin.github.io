@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: There ARE Stupid Questions
 date: 2019-01-24
 labels:

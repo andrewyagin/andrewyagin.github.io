@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Standards-Schmandards?
 date: 2019-02-07
 labels:
